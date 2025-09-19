@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <p align="center">
-  <img src="./stebujohny-banner.png" alt="Stebu Johny Banner" />
+  <img src="./banner.png" alt="Stebu Johny Banner" />
 </p>
 
 # 💻 Hi, I’m Stebu Johny  
