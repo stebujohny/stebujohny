@@ -1,6 +1,6 @@
-<!-- Profile Banner -->
+<!-- Custom Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Stebu%20Johny&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="./stebujohny-banner.png" alt="Stebu Johny Banner" />
 </p>
 
 # 💻 Hi, I’m Stebu Johny  
@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />  
 
 **Programming & Scripting**  
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,go" />  
+<img src="https://skillicons.dev/icons?i=python,bash,powershell" />  
 
 ---
 
@@ -52,8 +52,8 @@
 ## 📫 Connect With Me  
 <p>
   <a href="https://stebujohny.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-0f2027?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/stebujohny"><img src="https://img.shields.io/badge/LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/stebujohny"><img src="https://img.shields.io/badge/Twitter-0f2027?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
